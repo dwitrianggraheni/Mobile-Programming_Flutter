@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "name": "Doa Menjelang Sholat Shubuh",
+      "arabic": "اَللّٰهُمَّ اِنِّى اَعُوْذُ بِكَ مِنْ ضِيْقِ الدُّنْيَا وَضِيْقِ يَوْمِ الْقِيَامَةِ",
+      "latin": "Allaahumma inni a'udzubika min dzhiiqid-dunyaa wa dzhiiqi yaumal-qiyaamati",
+      "terjemahan": "Ya Allah! Sesungguhnya aku berlindung kepada-Mu dari kesempitan dunia dan kesempitan hari kiamat. (HR. Abu Daud)"
+    },
+    {
+      "id": 2,
+      "name": "Doa Menyambut Pagi hari",
+      "arabic": "اَللّٰهُمَّ بِكَ اَصْبَحْنَا وَبِكَ اَمْسَيْنَا وَبِكَ نَحْيَا وَبِكَ نَمُوْتُ وَاِلَيْكَ النُّشُوْرُ",
+      "latin":"Alloohumma bika ashbahnaa wa bika amsainaa wa bika nahyaa wa bika namuutu wa ilaikan nusyuuru",
+      "terjemahan": "Ya Allah, karena Engkau kami mengalami waktu pagi dan waktu petang, dan karena Engkau kami hidup dan mati dan kepada-Mu juga kami akan kembali."
+    },
+    {
+      "id": 3,
+      "name": "Doa Menyambut Sore Hari",
+      "arabic":"اَللّٰهُمَّ بِكَ اَمْسَيْنَا وَبِكَ اَصْبَحْنَا وَبِكَ نَحْيَا وَبِكَ نَمُوْتُ وَاِلَيْكَ الْمَصِيْرُ",
+      "latin": "Allahumma bika amsainaa wa bika ashbahnaa wa bika nahyaa wa bika namuutu wa ilaikal mashiir",
+      "terjemahan": "Ya Allah, karena Engkau kami mengalami waktu petang dan waktu pagi, karena Engkau kami hidup dan mati dan kepada-Mu juga kami akan kembali"
+    },
+    {
+      "id": 4,
+      "name": "Doa Selamat Dunia Akhirat",
+      "arabic": "اَللّٰهُمَّاِنَّانَسْئَلُكَسَلَامَةًفِىالدِّيْنِ،وَعَافِيَةًفِىالْجَسَدِوَزِيَادَةًفِىالْعِلْمِوَبَرَكَةًفِىالرِّزْقِوَتَوْبَةَقَبْلَالْمَوْتِوَرَحْمَةًعِنْدَالْمَوْتِوَمَغْفِرَةًبَعْدَالْمَوْتِ،اَللّٰهُمَّهَوِّنْعَلَيْنَافِيْسَكَرَاتِالْمَوْتِ،وَنَجَاةًمِنَالنَّارِوَالْعَفْوَعِنْدَالْحِسَابِ",
+      "latin": "Allaahumma innaa nas aluka salaamatan fid diin, wa 'aafiyatan fil jasad, wa ziyadatan fil 'ilmi, wabarokatan dir rizqi, wa taubatan qoblal maut, warohmatan indal maut, wa maghfirotan ba'dal maut. Allaahumma hawwin 'alainaa fii sakarootil maut, wan najaata minan naar, wal 'afwa indal hisaab.",
+      "terjemahan": "Ya Allah, sesungguhnya kami memohon kepada-Mu keselamatan ketika beragama, kesehatan badan, limpahan ilmu, keberkahan rezeki, tobat sebelum datangnya maut, rahmat pada saat datangnya maut, dan ampunan setelah datangnya maut. Ya Allah, mudahkanlah kami dalam menghadapi sakaratul maut, berikanlah kami keselamatan dari api neraka, dan ampunan pada saat hisab."
+    },
+    {
+      "id": 5,
+      "name": "Doa Terhindar dari Fitnah Dajjal",
+      "arabic":" اَللَّهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ وَمِنْ عَذَابِ النَّارِجَهَنَّمَ، وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ وَمِنْ فِتْنَةِ الْمَسِيْحِ الدَّجَّالِ",
+      "latin": "Allaahumma inni a’uudzubika min ‘adzaabil qabri wa min ‘adzaabinnaari jahannama wa min fitnatil mahyaa wal mamaati wa min fitnatil masiihid dajjaal",
+      "terjemahan": "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari azab Jahannam, azab kubur, dari fitnah kehidupan dan kematian, dan dari keburukan fitnah Dajjal."
+    },
+    {
+      "id": 6,
+      "name": "Doa Sapu Jagat",
+      "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+      "latin": "Rabbanaa, aatinaa fid dunyaa hasanah, wa fil aakhirati hasanah, wa qinaa 'adzaaban naar",
+      "terjemahan": "Tuhan kami, berikan kami kebaikan di dunia dan kebaikan di akhirat. Lindungilah kami dari siksa neraka."
+    },
+    {
+      "id": 7,
+      "name": "Doa Kesembuhan Orang Sakit",
+      "arabic": "اللَّهُمَّ رَبَّ النَّاسِ أَذْهِبِ الْبَأْسَ اشْفِ أَنْتَ الشَّافِي لَا شَافِيَ إلَّا أَنْتَ شِفَاءً لَا يُغَادِرُ سَقْمًا",
+      "latin": "Allāhumma rabban nāsi, adzhibil ba’sa. Isyfi. Antas syāfi. Lā syāfiya illā anta syifā’an lā yughādiru saqaman.",
+      "terjemahan": "Tuhanku, Tuhan manusia, hilangkanlah penyakit. Berikanlah kesembuhan karena Kau adalah penyembuh. Tiada yang dapat menyembuhkan penyakit kecuali Kau dengan kesembuhan yang tidak menyisakan  rasa nyeri"
+    },
+    {
+      "id": 8,
+      "name": "Doa Syukur Nikmat ",
+      "arabic": " رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَىٰ وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَدْخِلْنِي بِرَحْمَتِكَ فِي عِبَادِكَ الصَّالِحِينَ",
+      "latin": "Rabbi awzi’nii an asykura ni’mataka allatii an’amta ‘alayya wa’alaa waalidayya wa-an a’mala shaalihan tardaahu wa-adkhilnii birahmatika fii ‘ibaadika alshshaalihiina.",
+      "terjemahan": "Ya Tuhanku berilah aku ilham untuk tetap mensyukuri nikmat-Mu yang telah Engkau anugerahkan kepadaku dan kepada dua orang ibu bapakku dan untuk mengerjakan amal saleh yang Engkau ridai; dan masukkanlah aku dengan rahmat-Mu ke dalam golongan hamba-hamba-Mu yang saleh."
+    }
+  ]
